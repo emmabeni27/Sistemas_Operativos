@@ -1,0 +1,36 @@
+import threading
+import time
+import random
+import sys
+
+buffer = 0
+
+def main(n, m):
+    mutex =
+
+def Productor(i):
+    while True:
+        mutex.acquire() #modificar buffer
+        global buffer
+        if buffer<5:
+            productor.acquire()  # bloquea consumidores
+            buffer +=1
+            mutex.release()
+            productor.release()
+            sleep(3)
+        else:
+            mutex.release
+
+
+def Consumidor:
+    while True:
+        mutex.acquire()  # modificar buffer
+        global buffer
+        if buffer >0:
+            consumidor.acquire()  # bloquea consumidores
+            buffer -= 1
+            mutex.release()
+            consumidor.release()
+            sleep(3)
+        else:
+            mutex.release()

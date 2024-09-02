@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="526ef928-487b-448f-893a-db1113eb128c" name="Changes" comment="LECTORES ESCRITORES">
+    <list default="true" id="526ef928-487b-448f-893a-db1113eb128c" name="Changes" comment="BARBERO">
       <change afterPath="$PROJECT_DIR$/Práctica 2/Barbero_Dormilon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Práctica 2/Productor_Consumidor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Práctica 2/Lectores_Escritores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Práctica 2/Lectores_Escritores.py" afterDir="false" />
     </list>
@@ -89,12 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725281100008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BARBERO">
+      <option name="closed" value="true" />
+      <created>1725282327687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725282327687</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="filosofos" />
     <MESSAGE value="LECTORES ESCRITORES" />
-    <option name="LAST_COMMIT_MESSAGE" value="LECTORES ESCRITORES" />
+    <MESSAGE value="BARBERO" />
+    <option name="LAST_COMMIT_MESSAGE" value="BARBERO" />
   </component>
 </project>

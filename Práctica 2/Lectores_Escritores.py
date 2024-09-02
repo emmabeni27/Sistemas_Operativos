@@ -1,7 +1,7 @@
 import threading
-import datetime
 import time
 import random
+
 
 #COMO BLOQUEA LECTORES EN WRITE PERO NO EN READ???
 readers = 0
